@@ -4,6 +4,7 @@
 
 
 **Create a CI/CD Pipeline**
+
 •	Navigate to CodeStar.
 •	Click Create project.
 •	If the Create service role dialog appears, click Create service role.
@@ -22,7 +23,7 @@
 •	Choose the pipeline and click ** Next**.
 •	Click Create Project. It could take 5-10 minutes for the project to finish being set up.
 
-**Deploy a New Version of a Website using a CI/CD Pipeline **
+****Deploy a New Version of a Website using a CI/CD Pipeline ****
 
 •	Click View application to navigate to our web application.
 •	Back in the CodeStar browser tab, click IDE.
