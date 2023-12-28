@@ -1,5 +1,6 @@
 
-![image](https://github.com/nandineer/AWS_Devops/assets/22636122/f1ab1664-8701-4347-89de-90319303941b)
+![image](https://github.com/nandineer/AWS_Devops/assets/22636122/e105b346-d3b0-486d-a649-0103cc07005e)
+
 
 
 
